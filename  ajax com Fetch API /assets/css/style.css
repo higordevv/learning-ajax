@@ -73,4 +73,6 @@ button:hover {
     background-color: rgba(172, 255, 47, 0.361);
     color: red;
     text-align: center;
+    padding: 15px;
+    border-radius: 20px;
 }
